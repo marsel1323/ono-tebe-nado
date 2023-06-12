@@ -121,6 +121,10 @@
     background-color: transparent;
 }
 
+.bet-button:hover {
+    cursor: pointer;
+}
+
 .lots {
     margin: 180px 50px 0;
 }
